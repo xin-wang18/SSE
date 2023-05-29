@@ -1,4 +1,4 @@
-# SSE
+# SSE-Application Process
 Dataset and code of the paper:"Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection"
 
 To receive access, you will need to read, sign, and send back the attached data usage agreement (DUA).
