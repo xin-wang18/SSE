@@ -1,7 +1,7 @@
 # SSE-Application Process
 Dataset and code of the paper:"Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection"
 
-To receive access, you will need to read, sign, and send back the attached data usage agreement (DUA).
+To receive access, you will need to read, sign, and send back the attached data and code usage agreement (DCUA).
 
 The DUA contains restrictions on how you can use the data and code. We would like to draw your attention to several restrictions in particular:
 
