@@ -12,6 +12,6 @@ The DCUA contains restrictions on how you can use the data and code. We would li
 
 If your institution has issues with language in the DCUA, please have the responsible person at your institution contact us with their concerns and suggested modifications.
 
-Once the Primary Investigator has signed the DCUA, the Primary Investigator should email the signed form to xin-wang18@mails.tsinghua.edu.cn
+Once the Primary Investigator has signed the DCUA, the Primary Investigator should email the signed form to wangxin_6961@163.com
 
 The stressor and stressful emotion lexicons could be directly found in [Stress Lexicons](https://github.com/xin-wang18/stress_lexicons)
