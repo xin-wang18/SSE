@@ -8,7 +8,7 @@ evaluation is to evaluate our SSE
 ### Data
 To receive access, you will need to read, sign, and send back the attached data and code usage agreement (DCUA).
 
-The DCUA contains restrictions on how you can use the data and code. We would like to draw your attention to several restrictions in particular:
+The DCUA contains restrictions on how you can use the data. We would like to draw your attention to several restrictions in particular:
 
 - No commercial use.
 - You cannot transfer or reproduce any part of the data set. This includes publishing parts of users' posts.
