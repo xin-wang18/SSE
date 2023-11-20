@@ -1,11 +1,11 @@
-# SSE- Stress Specific Word Emebdding Pre-trained Language Model
+## SSE- Stress Specific Word Emebdding Pre-trained Language Model
 Code and dataset of the paper:"Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection"
-## Code
+### Code
 pre-training is to pre-training the PLM and get the stress-specific embedding(SSE)
 
 evaluation is to evaluate our SSE
 
-## Data
+### Data
 To receive access, you will need to read, sign, and send back the attached data and code usage agreement (DCUA).
 
 The DCUA contains restrictions on how you can use the data and code. We would like to draw your attention to several restrictions in particular:
