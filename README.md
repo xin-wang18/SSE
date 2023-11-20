@@ -1,5 +1,5 @@
 ## SSE- Stress Specific Word Emebdding Pre-trained Language Model
-Code and dataset of the paper:"Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection"
+Code and dataset of the paper:"[Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection](https://dl.acm.org/doi/pdf/10.1145/3580305.3599795)"
 ### Code
 pre-training is to pre-training the PLM and get the stress-specific embedding(SSE)
 
